@@ -43,7 +43,7 @@ Hercules *interuenit*
 
 B. Grammatical questions 
 
-Write a dictionary entry (nominative singular, genitive singular, gender) for Dexamenum, then identify the form Dexamenum. Dexamenus, Dexameni, m. Deamenum is accusative singular (FIXED)
+Write a dictionary entry (nominative singular, genitive singular, gender) for Dexamenum, then identify the form Dexamenum. Dexamenus, Dexameni, m. Deamenum is masculine accusative singular (FIXED)
 
 Write a dictionary entry (nominative singular, genitive singular, gender) for Deianiram, then identify the form Deianiram. Deianira, Deianirae, f. Deianiram accusative singular (FIXED)
 
