@@ -4,10 +4,10 @@ Part 1: recognizing nouns
 Identify the gender, case and number, and gender of each noun. If there are multiple possible forms, list all options. Translate prepositional phrases.
 
 filiam- feminine noun accusative singular 
-in coniugium- neuter, ablative, dative, nominative, singular- means in marriage  ❌
+in coniugium- neuter, accusative, singular- means into marriage  ❌ (FIXED)
 animo- dative or ablative, masculine, singular
 uirgine- ablative, feminine, singular
-parentes- plural, masculine, accusative ❌
+parentes- plural, masculine, nominative, accusative ❌ (FIXED)
 ad uxorem- feminine, accusative, singular - means to his wife
 
 
