@@ -10,35 +10,31 @@ A. Grammatical analysis ❌ *Please indent to show level of subordination.  Use 
 
 Place each clause on a separate line, indented to show its level of subordination. Italicize the verb of each clause by surrounding it with asterisks.
 
-Hercules 
+>Hercules 
 
 > > cum in hospitium ad Dexamenum regem *uenisset*
 
 > > eiusque filiam Deianiram *deuirginasset*,
 
-volebat eam uxorem *ducere*.
+>volebat eam uxorem *ducere*.
 
 >> cum Hercules *abesset*,
 
-centaurus Eurytion *petit* Deianiram uxorem
+>centaurus Eurytion *petit* Deianiram uxorem
 
 >> quia pater eius centaurum *timebat* 
 
-*pollicitus est* 
+>*pollicitus est* 
 
 >> se *daturum* 
 
-Tempore certo, 
+>Tempore certo, *venit* centaurus cum fratribus ad nuptias.
 
->> *venit* centaurus 
+>Hercules *interuenit* 
 
->> cum fratribus ad nuptias.
+> et centaurum *interfecit*
 
-Hercules *interuenit* 
-
->> et centaurum *interfecit*
-
->> Deianiram *abduxit*.
+> Deianiram *abduxit*.
 
 
 B. Grammatical questions 
