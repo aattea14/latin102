@@ -41,11 +41,11 @@ B. Grammatical questions
 
 Write a dictionary entry (nominative singular, genitive singular, gender) for Dexamenum, then identify the form Dexamenum. Dexamenus, Dexameni, m. Deamenum is masculine accusative singular (FIXED)
 
-Write a dictionary entry (nominative singular, genitive singular, gender) for Deianiram, then identify the form Deianiram. Deianira, Deianirae, f. Deianiram accusative singular (FIXED)
+Write a dictionary entry (nominative singular, genitive singular, gender) for Deianiram, then identify the form Deianiram. Deianira, Deianirae, f. Deianiram accusative feminine singular (FIXED)
 
-Identify the form abesset, and explain why it is this tense and mood. imperfect 3rd person singular active subjunctive. This form was chosen because the action is not yet completed and in a certain circumstance. ❌
+Identify the form abesset, and explain why it is this tense and mood. imperfect 3rd person singular active subjunctive. The subjunctive was used because there is an emphasis of circumstance in the temporal clause. The imperfect was used because it is part of the secondary sequence and occurs in the past. ❌ (FIXED?)
 
-Identify the form uenisset, and explain why it is this tense and mood. active subjunctive pluperfect 3rd person singular. This form was chosen because the action has been completed in the past. ❌
+Identify the form uenisset, and explain why it is this tense and mood. active subjunctive pluperfect 3rd person singular. This form was chosen because it is in the secondary clause which occured earlier than the independent clause. ❌ (FIXED?)
 
 Identify the form pollicitus est. What dictionary form would you look under to find this verb? polliceor, passive, "to promise", deponent verb 
 
@@ -57,7 +57,7 @@ Please translate the passage into idiomatic English.
 
 
 Hercules cum in hospitium ad Dexamenum regem uenisset eiusque filiam Deianiram deuirginasset, volebat eam uxorem ducere. 
-When Hercules had come to the court of King Dexamenus and deflowered his daughter Dejanira, wanting her to consider being his wife.  ❌ (FIXED?)
+When Hercules came in hospitality to King Dexamenus and deflowered his daughter Dejanira, he wanted her to consider being his wife.  ❌ (FIXED?)
 
 cum Hercules abesset, centaurus Eurytion petit Deianiram uxorem. 
 When Hercules was away,the centaur Eurytion asked Dejanira to be his wife. 
