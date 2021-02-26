@@ -1,3 +1,5 @@
+**Needs revisions**
+
 
 Heracles travelled to the city of Oechalia in Aetolia, and asked the king, Eurytus, for permission to marry his daughter, Iole. When Eurytus refused, Heracles not only destroyed the city, but killed Iole’s parents before her very eyes. He then took Iole captive, and sent her to his home, to his wife Deianira (!)
 
@@ -20,4 +22,9 @@ Iole endured- independent clause
 Your fifth statement should say that when he had killed all of them, he sent Iole to Deianira.
 
 
-Cum Hercules Oechalia venio, eam rogabat Iole ducebat. Cum eius patris Eurytus nolo, Hercules Oechalia capio. Hercules interficiebat eam parentes dixit. Iole passus est eam parentes interfecit. Cum interfecit omnes, misit Iolem Deinira.
+Cum Hercules Oechalia venio, ❌
+eam rogabat Iole ducebat.❌ 
+Cum eius patris Eurytus nolo, ❌
+Hercules Oechalia capio.❌ 
+Hercules interficiebat eam parentes dixit. Iole passus est eam parentes interfecit. ❌
+Cum interfecit omnes, misit Iolem Deinira.❌
