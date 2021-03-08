@@ -26,5 +26,6 @@ Cum Hercules Oechalia venio, ❌
 eam rogabat Iole ducebat.❌ 
 Cum eius patris Eurytus nolo, ❌
 Hercules Oechalia capio.❌ 
-Hercules interficiebat eam parentes dixit. Iole passus est eam parentes interfecit. ❌
-Cum interfecit omnes, misit Iolem Deinira.❌
+Hercules interficiebat eam parentes dixit. Iole sui patiebatur parentes interfectos esse. ❌ (FIXED)
+Cum Hercules interfecisset omnes, Iolen ad Deianiram misit.❌ (FIXED)
+cum+ pluperfect subjunctive (hercules nom subject) 
