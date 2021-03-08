@@ -45,10 +45,6 @@ perfect active passive- pollicitum esse
 third plural pluperfect subjunctive passive- polliciti essent 
  
 
-❌ **Please complete remaining synopses**
-
-*Do a synopsis here… one 1st or 2nd, one 3rd or 3rdio*
-*but not amo, habeo, capio or duco*
 
 
 ## English relative clauses
