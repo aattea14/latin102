@@ -1,6 +1,7 @@
 **Needs revisions**
 
-## Verb synopses
+## Verb synopses 
+👍 Nice!
 
 Check one verb of the first or second conjugation *other than8 amo or habeo, and one verb of the third or third-io conjugation other than capio or duco. For each verb, complete the following synopsis, and translate indicative forms as complete sentences.
 
