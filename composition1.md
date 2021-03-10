@@ -22,10 +22,10 @@ Iole endured- independent clause
 Your fifth statement should say that when he had killed all of them, he sent Iole to Deianira.
 
 
-Cum Hercules Oechaliam venisset, ❌ (FIXED)          
-rogavit ducere Iolen uxorem.❌ (FIXEd??)
-Cum pater eius Eurytus nollet, ❌     imperfect subjunctive 
-Hercules Oechaliam cepit.❌         perfect tense 
-Hercules interficiebat eam parentes dixit. Iole suos patiebatur parentes interfectos esse. ❌ (FIXED)
-Cum Hercules interfecisset omnes, Iolen ad Deianiram misit.❌ (FIXED)
+Cum Hercules Oechaliam venisset,           
+rogavit ducere Iolen uxorem.
+Cum pater eius Eurytus nollet, 
+Hercules Oechaliam cepit.
+Hercules interficiebat eam parentes dixit. Iole suos patiebatur parentes interfectos esse. 
+Cum Hercules interfecisset omnes, Iolen ad Deianiram misit.
  
