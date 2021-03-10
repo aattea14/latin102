@@ -23,8 +23,8 @@ Your fifth statement should say that when he had killed all of them, he sent Iol
 
 
 Cum Hercules Oechaliam venisset, ❌ (FIXED)          
-eam rogabat Iolen uxorem ducebat.❌ (FIXEd??)
-Cum eius pater Eurytus nolo, ❌     imperfect subjunctive 
+rogavit ducere Iolen uxorem.❌ (FIXEd??)
+Cum pater eius Eurytus nollet, ❌     imperfect subjunctive 
 Hercules Oechaliam cepit.❌         perfect tense 
 Hercules interficiebat eam parentes dixit. Iole suos patiebatur parentes interfectos esse. ❌ (FIXED)
 Cum Hercules interfecisset omnes, Iolen ad Deianiram misit.❌ (FIXED)
