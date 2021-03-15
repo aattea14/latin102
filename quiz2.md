@@ -53,10 +53,10 @@ third plural pluperfect subjunctive passive- polliciti essent
 You are given a pair of simple English sentences (that is, a single independent clause) with a noun in common. Combine them into one complex sentence by keeping the first sentence as the independent clause, and making the second sentence a relative clause.
 
 The brothers were violent Centaurs. Eurytion came to the wedding with his brothers.
-The brothers, whom Eurytion came to the weeding with, were violent Centaurs.
+The brothers, whom Eurytion came to the wedding with, were violent Centaurs.
 pronoun: whom- cum quibus
 brothers- masculine plural
-ablative because its the direct object ❌ (object of the preposition) 
+ablative because its object of the preposition 
 
 Dexamenus was afraid of Eurytion. Deanira was promised in marriage to Eurytion.
 Dexamenus was afraid of Eurytion, to whom Deanira was promised in marriage. 
@@ -66,30 +66,30 @@ Dative because its the indirect object.
 
 Eurytion expected to marry Deianira. Eurytion’s brothers were centaurs.
 Eurytion, whose brothers were centaurs, was expected to marry Deianira. 
-whose- qui ❌ cuius ?
-Eurytion- masculine singular  ❌
-nominative because he is the subject of the sentence  ❌
+whose- cuius 
+the brothers- masculine plural 
+genitive because we are referring to brothers of Eurytion,  
 
 Nessus tried to rape Deianira. Hercules killed Nessus.
 Nessus, who Hercules killed, tried to rape Deianira. 
-who- qui ❌
-Nessus- masculine singular ❌
-nominative because he is the subject  ❌
+who- quem 
+Nessus- masculine singular 
+accusative because direct object  
 
 Nessus gave Deianira a vial of blood. Hercules was poisoned by the blood.
-Nessus gave Deianira a vial of blood of which Hercules was poisoned by. ❌ *Not English.*
-of which- cui ❌
+Nessus gave Deianira a vial of blood by which Hercules was poisoned. 
+by which- quo 
 vial of blood- singular, n 
-dative because it is the indirect object  ❌
+ablative because it referring to the instrument of means  
 
 In Egypt, Hercules killed the priest Busiris. Busiris regularly sacrificed foreigners.
 In Egypt, Hercules killed the priest Busiris, who regularly sacrificed foreigners.
-who- quem ❌
+who- qui 
 Busiris- masculine singular
-he is the direct object of the sentence- accusative ❌
+Busiris is the subject of that clause so he is the nominative 
 
 Prometheus’ heart was devoured by an eagle. Hercules shot the eagle dead with his arrows.
-Prometheus' heart was devoured by an eagle, who was shot dead by one of Hercule's arrows. ❌
+Prometheus' heart was devoured by an eagle, which Hercules shot dead with his arrows. 
 who- quem
 eagle- masculine singular
 accusative because it is the direct object 
@@ -102,15 +102,15 @@ nominative because he is the subject of the sentence
 
 Hercules stole a tripod from the temple at Delphi. Apollo refused to give Hercules an oracle.
 Hercules, who Apollo refused to give an oracle to, stole a tripod from the temple at Delphi,
-who- qui ❌
+who- cui 
 Hercules- masculine singular
-nominative because he is the subject of the sentence  ❌
+He is the receiver of the direct object (indirect object) so we use dative.   
 
 Hercules killed his own wife Megara. Juno drove threw Hercules into a fit of madness.
-Hercules, to whom was thrown into a fit of madness by Juno, killed his own wife Megara. ❌ *Not English.*
+Hercules, whom Juno drove into a fit of madness, killed his own wife Megara. 
 to whom- qui 
 Hercules- masculine singular
-nominative because he is the subject of the sentene 
+accusative because he is the direct object 
 
 Latin relative clauses
 For each sentence in the previous section:
