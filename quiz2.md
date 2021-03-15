@@ -56,7 +56,7 @@ The brothers were violent Centaurs. Eurytion came to the wedding with his brothe
 The brothers, whom Eurytion came to the weeding with, were violent Centaurs.
 pronoun: whom- cum quibus
 brothers- masculine plural
-ablative because its the direct object ❌
+ablative because its the direct object ❌ (object of the preposition) 
 
 Dexamenus was afraid of Eurytion. Deanira was promised in marriage to Eurytion.
 Dexamenus was afraid of Eurytion, to whom Deanira was promised in marriage. 
@@ -66,7 +66,7 @@ Dative because its the indirect object.
 
 Eurytion expected to marry Deianira. Eurytion’s brothers were centaurs.
 Eurytion, whose brothers were centaurs, was expected to marry Deianira. 
-whose- qui ❌
+whose- qui ❌ cuius ?
 Eurytion- masculine singular  ❌
 nominative because he is the subject of the sentence  ❌
 
