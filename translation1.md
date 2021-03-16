@@ -10,31 +10,31 @@ A. Grammatical analysis ❌ *Please indent to show level of subordination.  Use 
 
 Place each clause on a separate line, indented to show its level of subordination. Italicize the verb of each clause by surrounding it with asterisks.
 
->Hercules 
+Hercules 
 
-> > cum in hospitium ad Dexamenum regem *uenisset*
+> cum in hospitium ad Dexamenum regem *uenisset*
 
-> > eiusque filiam Deianiram *deuirginasset*,
+> eiusque filiam Deianiram *deuirginasset*,
 
->volebat eam uxorem *ducere*.
+volebat eam uxorem *ducere*.
 
->> cum Hercules *abesset*,
+> cum Hercules *abesset*,
 
->centaurus Eurytion *petit* Deianiram uxorem
+centaurus Eurytion *petit* Deianiram uxorem
 
->> quia pater eius centaurum *timebat* 
+> quia pater eius centaurum *timebat* 
 
->*pollicitus est* 
+*pollicitus est* 
 
->> se *daturum* 
+> se *daturum* 
 
->Tempore certo, *venit* centaurus cum fratribus ad nuptias.
+Tempore certo, *venit* centaurus cum fratribus ad nuptias.
 
->Hercules *interuenit* 
+Hercules *interuenit* 
 
-> et centaurum *interfecit*
+et centaurum *interfecit*
 
-> Deianiram *abduxit*.
+Deianiram *abduxit*.
 
 
 B. Grammatical questions 
@@ -43,9 +43,9 @@ Write a dictionary entry (nominative singular, genitive singular, gender) for De
 
 Write a dictionary entry (nominative singular, genitive singular, gender) for Deianiram, then identify the form Deianiram. Deianira, Deianirae, f. Deianiram accusative feminine singular (FIXED)
 
-Identify the form abesset, and explain why it is this tense and mood. imperfect 3rd person singular active subjunctive. The subjunctive was used because there is an emphasis of circumstance in the temporal clause. The imperfect was used because it is part of the secondary sequence and occurs in the past. ❌ (FIXED?)
+Identify the form abesset, and explain why it is this tense and mood. imperfect 3rd person singular active subjunctive. The subjunctive was used because there is an emphasis of circumstance in the temporal clause. The imperfect was used because it is part of the secondary sequence and occurs in the past. ❌ (FIXED)
 
-Identify the form uenisset, and explain why it is this tense and mood. active subjunctive pluperfect 3rd person singular. This form was chosen because it is in the secondary clause which occured earlier than the independent clause. ❌ (FIXED?)
+Identify the form uenisset, and explain why it is this tense and mood. active subjunctive pluperfect 3rd person singular. This form was chosen because it is in the secondary clause which occured earlier than the independent clause, and talking about the circumstance. ❌ (FIXED?)
 
 Identify the form pollicitus est. What dictionary form would you look under to find this verb? polliceor, passive, "to promise", deponent verb 
 
@@ -57,7 +57,7 @@ Please translate the passage into idiomatic English.
 
 
 Hercules cum in hospitium ad Dexamenum regem uenisset eiusque filiam Deianiram deuirginasset, volebat eam uxorem ducere. 
-When Hercules came in hospitality to King Dexamenus and deflowered his daughter Dejanira, he wanted her to consider being his wife.  ❌ (FIXED?)
+When Hercules came in hospitality to King Dexamenus and deflowered his daughter Dejanira, he wanted her to consider being his wife.  ❌ (FIXED)
 
 cum Hercules abesset, centaurus Eurytion petit Deianiram uxorem. 
 When Hercules was away,the centaur Eurytion asked Dejanira to be his wife. 
