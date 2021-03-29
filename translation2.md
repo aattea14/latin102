@@ -43,7 +43,7 @@ Identify the antecedent of cui, and its gender and number. Then explain what cas
 Cui is dative singular neuter. Cui is used in the dative because it is referring to the indirect object. Its antecedent is magnum- also neuter singular. 
 
 Identify the form of transire. Explain why you placed it in the clause you chose.
-trasnire is the present active infinitive of transeo and it is used to express "could not cross"
+transire is the present active infinitive of transeo and it is used to express "could not cross"
 
 sublatam is from a verb that is a compound of sub plus a verb you should know very well. Identify the form of this participle (which for participles means: gender, case, number, tense voice). Find the dictionary entry for this word in thed Lewis-Short’s Latin Dictionary, and give its URN here.
 fero, ferre, tuli, latus- to bear, carry, bring
