@@ -61,4 +61,8 @@ Identify the form of exceptum. perfect passive participle accusative singular
 William Faulkner’s novel As I lay dying takes its title from an English translation of a single word in Odyssey 11.424. In Greek, where participles function very differently from English but similarly to Latin, that word is a present active participle. Suggest one or more possible translations of Faulkner’s title into Latin. 
 moriens 
 
-Deianira, wife of Hercules, could not cross the large river, who was named Evenus, and the centaur Nessus, who was the son of Ixionus and Nubis, asked for help. This taking away of Deianira in the river itself he wished to violate her. When Hercules came to this place and Deianira believed he would help, Nessus pierced him with his arrow. As he was dying, when he knew the arrows were soaked in great potency of the poisonous liquid Hydra Lerna, he gave his blood to Deianira and he said it was a love potion. 
+Deianira, wife of Hercules, could not cross the large river, which was named Evenus, and the centaur Nessus, who was the son of Ixion and Nubis, asked for help. This taking away of Deianira in the river he wished to violate her himself. When Hercules came to this place and Deianira believed he would help, Nessus pierced him with his arrow. As he was dying, when he knew the arrows were soaked in great potency of the poisonous liquid Hydra Lerna, he gave his blood to Deianira and he said it was a love potion. 
+
+Deianira, uxor Herculis, flumen magnum, cui nomen Evenus erat, non poterat transire, et centaurum Nessum, qui filius Ixionis et Nubis erat, auxilium rogavit. Hic Deianiram sublatam in flumine ipso uiolare uoluit. huc Hercules cum interuenisset et Deianira cum fidem eius implorasset, Nessum sagittis confixit.
+
+ille moriens, cum sciret sagittas Hydrae Lernaeae felle tinctas magnam vim habere, sanguinem suum exceptum Deianirae dedit et id philtrum esse dixit.
