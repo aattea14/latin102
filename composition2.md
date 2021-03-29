@@ -22,3 +22,6 @@ temporal clause (cum- indicative for time? subjunct circumstance?)--
 Coepiebat/coepit machinari
 
     negative purpose (ne + subjunctive; tense following sequence for secondary (past time) sequence)
+    
+    
+    pluperfect subjunctive if would/had
