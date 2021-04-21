@@ -9,6 +9,8 @@ for a three-ending adjective, masculine, feminine and neuter nominative singular
 Noun-adjective pairs (in various cases):
 
 uno die
+unus, una, unum--- uno is dative masculine, means one 
+Dies, Diei..means day--- die is ablative, singular, neuter
 
 totum stercus
 ceruum ferocem
