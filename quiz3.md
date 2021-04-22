@@ -41,22 +41,24 @@ draco, draconis m. 3rd declension- means serpent
 immanis, immane, immanior-- means huge-- accusative masculine singular 
 
 mala aurea
-
+mala, malorum, n. 2nd decelension-- menas troubles-- accusative-nominative plural 
+aureus, aurea, aureaum-- means beautiful, genitive singular feminine
 
 Dictionary skills, 2: verb forms
 For the following verbs in various forms, list the four principal parts you would find in a dictionary entry for this verb. If a part is missing (e.g., for a deponent verb, there will be no perfect active form for a third prinicipal part), list a dash - for the missing part.
 
-transierat
-afflabat
-moriebatur
+transierat: transeo, transire, trasivi, transitus
+afflabat: afflo, afflare, afflavi, afflatus
+moriebatur: Morior, Mori, - , Mortuus
 exinteravit
-effugiebat
-adduxit
+effugiebat: Effugio, Effugere, Effugi, Effugitus
+adduxit: adduco, adducere, adduxi, adductus
 iaculabantur
-vescebantur
-detraxit
-solitus erat
-attulit
+vescebantur: vescor, vesceris, vesci, - 
+detraxit: detraho, detrahere, detraxi, detractus
+solitus erat: Soleo, Solere, -, Solitus
+attulit: attulo, attulis, attulere, -
+
 Dictionary skills, 3: proper nouns and adjectives
 Dictionaries do not include large numbers of proper names and adjectives. Compose a dictionary for the proper nouns in the following phrases:
 
