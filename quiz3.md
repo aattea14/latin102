@@ -13,12 +13,33 @@ unus, una, unum--- uno is dative masculine, means one
 Dies, Diei..means day--- die is ablative, singular, neuter
 
 totum stercus
+Totus, Tota, Totum-- whole, entire - ablative singular 
+stercus, stercoris m.-- manure nominative
+
 ceruum ferocem
+cerium, cerii n.-- accusative singular 
+Ferox, Ferocis-- fierce-- accusative singular 
+
 tantam vim
+tantus, tanta, tantum-- accusative, neuter-- means large 
+vimen, viminis, n. 
+
 sagittas suas
+săgitta, ae, f.-- means arrow
+Suus, Sua, Suum-- accusative masculine plural 
+
 cornibus aureis
+cornu, cornus n.
+aureus, aurea, aureum
+
 carne humana
+caro, carnis f. 
+humanus, humana, humanum 
+
 draconem immanem
+draco, draconis m. 3rd declension- means serpent 
+immanis, immane, immanior-- means huge-- accusative masculine singular 
+
 mala aurea
 
 
