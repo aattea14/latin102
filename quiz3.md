@@ -62,13 +62,14 @@ attulit: attulo, attulis, attulere, -
 Dictionary skills, 3: proper nouns and adjectives
 Dictionaries do not include large numbers of proper names and adjectives. Compose a dictionary for the proper nouns in the following phrases:
 
-Luna (nominative)
-Minerva (nominative)
-in Phrygia
-ex Creta
-Thraciae rex
-cum Abdero
-Eurystheo regi
+Luna (nominative): lūna, ae (gen. lunai)
+Minerva (nominative): Minerva, Minerva, f. 
+in Phrygia: Phryges, um, m.,
+ex Creta: Crēta, ae, acc. Creten
+Thraciae rex: Thrācĭa and Thrēcĭa, ae, f.
+cum Abdero: Abdēra, ōrum, n., and ae, f.
+Eurystheo regi: Eurysthĕnes, is, m.,
+
 Compose a dictionary form for the proper adjectives in the following phrases:
 
 Leonem Nemeum
