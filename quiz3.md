@@ -17,12 +17,12 @@ Totus, Tota, Totum-- whole, entire - ablative singular
 stercus, stercoris m.-- manure nominative
 
 ceruum ferocem
-cerium, cerii n.-- accusative singular 
+cerium, cerii n.-- accusative singular ❌
 Ferox, Ferocis-- fierce-- accusative singular 
 
 tantam vim
 tantus, tanta, tantum-- accusative, neuter-- means large 
-vimen, viminis, n. 
+vimen, viminis, n.❌ 
 
 sagittas suas
 săgitta, ae, f.-- means arrow
@@ -41,34 +41,34 @@ draco, draconis m. 3rd declension- means serpent
 immanis, immane, immanior-- means huge-- accusative masculine singular 
 
 mala aurea
-mala, malorum, n. 2nd decelension-- menas troubles-- accusative-nominative plural 
+mala, malorum, n. 2nd decelension-- menas troubles--👌 **Possible. (Although in Hyginus, we'll see this phrase with the noun *malum, mali* (n) meaning "apple"!** ) accusative-nominative plural 
 aureus, aurea, aureaum-- means beautiful, genitive singular feminine
 
 Dictionary skills, 2: verb forms
 For the following verbs in various forms, list the four principal parts you would find in a dictionary entry for this verb. If a part is missing (e.g., for a deponent verb, there will be no perfect active form for a third prinicipal part), list a dash - for the missing part.
 
-transierat: transeo, transire, trasivi, transitus
+transierat: transeo, transire, transivi, transitus
 afflabat: afflo, afflare, afflavi, afflatus
 moriebatur: Morior, Mori, - , Mortuus
 exinteravit
 effugiebat: Effugio, Effugere, Effugi, Effugitus
 adduxit: adduco, adducere, adduxi, adductus
 iaculabantur
-vescebantur: vescor, vesceris, vesci, - 
+vescebantur: vescor, vesceris❌, vesci, - 
 detraxit: detraho, detrahere, detraxi, detractus
 solitus erat: Soleo, Solere, -, Solitus
-attulit: attulo, attulis, attulere, -
+attulit: attulo, attulis❌, attulere, -
 
 Dictionary skills, 3: proper nouns and adjectives
 Dictionaries do not include large numbers of proper names and adjectives. Compose a dictionary for the proper nouns in the following phrases:
 
 Luna (nominative): lūna, ae (gen. lunai)
 Minerva (nominative): Minerva, Minerva, f. 
-in Phrygia: Phryges, um, m.,
-ex Creta: Crēta, ae, acc. Creten
+in Phrygia: Phryges, um, m.,❌
+ex Creta: Crēta, ae
 Thraciae rex: Thrācĭa and Thrēcĭa, ae, f.
-cum Abdero: Abdēra, ōrum, n., and ae, f.
-Eurystheo regi: Eurysthĕnes, is, m.,
+cum Abdero: Abdēra, ōrum, n., and ae, f.❌
+Eurystheo regi: Eurysthĕnes, is, m.,❌s
 
 Compose a dictionary form for the proper adjectives in the following phrases:
 

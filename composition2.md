@@ -1,3 +1,5 @@
+**Needs revisions**
+
 Background
 You already know the background to this story: Deianira was tricked by Nessus into believing that the vial of poison he gave her was actually a love potion.
 
@@ -28,20 +30,20 @@ Coepiebat/coepit machinari
     pluperfect subjunctive if would/had
     
     
-1) Cum Deianira venit Iolen adductam esse coepit machinari ne privaret mariti eius. 
+1) Cum Deianira venit❌ Iolen adductam esse coepit machinari ne privaret mariti❌ eius❌. 
 
 Your second sentence should express that she sent her servant to bring to Hercules a garment dipped in the blood of the centaur Nessus, which she thought was a love potion.
 
-2) Deianiram famulum misit ferre Hercules vestimentum summersit in centaurum Nessum sanguinem, quid cogitavit potioni amori. 
+2) Deianiram❌ famulum misit ❌ferre Hercules vestimentum summersit in centaurum Nessum sanguinem, quid cogitavit potioni amori. **We need a *purpose* construction here:  unlike English, Latin can't express that with an infinitive "to do something".**
 
 Your third sentence should say that Hercules put the garment on and it immediately burst into flames.
 
-3) Hercules induit vestimentum et vestimentum statim displosit in flammato.
+3) Hercules induit vestimentum et vestimentum statim displosit❌ **See gloss for better vocabulary option.** in flammato.
 
 Your fourth sentence should express that Hercules threw the slave, whom Deianira had sent to bring the garment back, into the sea.
 
-4) Hercules iecit famulum, quid Deianira miserat ferre vestimentum, in mare. 
+4) Hercules iecit famulum, quid❌ Deianira miserat ❌ **Need purpose here, too** ferre vestimentum, in mare. 
 
 Your last sentence should express that it is reported (or said) that Hercules rose to immortality, but Deianira killed herself on account of this deed.
 
-5) Dixerit erat Hercules ortus est ad immortalem, sed Deianira se occidet ob haec. 
+5) Dixerit erat❌ Hercules ortus est ad immortalem ❌**Need indirect statement**, sed Deianira se occidet❌ **What mood is this?** ob haec. 
