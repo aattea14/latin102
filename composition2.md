@@ -30,11 +30,17 @@ Coepiebat/coepit machinari
     pluperfect subjunctive if would/had
     
     
-1) Cum Deianira venit❌ Iolen adductam esse coepit machinari ne privaret mariti❌ eius❌. 
+1) Cum Deianira vedit❌ (CHANGED)Iolen adductam esse coepit machinari ne privaret mariti❌ eius❌. 
 
 Your second sentence should express that she sent her servant to bring to Hercules a garment dipped in the blood of the centaur Nessus, which she thought was a love potion.
 
 2) Deianiram❌ famulum misit ❌ferre Hercules vestimentum summersit in centaurum Nessum sanguinem, quid cogitavit potioni amori. **We need a *purpose* construction here:  unlike English, Latin can't express that with an infinitive "to do something".**
+qui with relative clause, or gerunduve with "a" = in order to (purpose)
+she thought that = thinking introduces an indirect statement-- need accusative subject and infinitive "to be" ESSE
+QUI FERRIT= in order to bring it 
+
+Famulum misit ad vestem ferendam
+
 
 Your third sentence should say that Hercules put the garment on and it immediately burst into flames.
 
@@ -44,6 +50,15 @@ Your fourth sentence should express that Hercules threw the slave, whom Deianira
 
 4) Hercules iecit famulum, quid❌ Deianira miserat ❌ **Need purpose here, too** ferre vestimentum, in mare. 
 
+
 Your last sentence should express that it is reported (or said) that Hercules rose to immortality, but Deianira killed herself on account of this deed.
 
-5) Dixerit erat❌ Hercules ortus est ad immortalem ❌**Need indirect statement**, sed Deianira se occidet❌ **What mood is this?** ob haec. 
+5) Dicitur❌ (CHANGED) Hercules ortus est ad immortalem ❌**Need indirect statement**, sed Deianira se occidit❌ **What mood is this?** (CHANGED) ob haec. 
+dicitur= it is said 
+
+
+gerundive: ad and noun it agrees with is a passive verbal idea 
+
+ad vestem ferendam= garment should be brought back 
+
+Famulum misit ad vestem ferendam= she sent her slave in order to bring back garment 
