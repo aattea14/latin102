@@ -16,13 +16,13 @@ totum stercus
 Totus, Tota, Totum-- whole, entire - ablative singular 
 stercus, stercoris m.-- manure nominative
 
-ceruum ferocem
-cerium, cerii n.-- accusative singular ❌
+cervum ferocem
+cervus, cervi (m) -- accusative singular 
 Ferox, Ferocis-- fierce-- accusative singular 
 
 tantam vim
-tantus, tanta, tantum-- accusative, neuter-- means large 
-vimen, viminis, n.❌ 
+tantus, tanta, tantum-- accusative, f singular-- means large 
+vīs, vis (f)
 
 sagittas suas
 săgitta, ae, f.-- means arrow
@@ -33,16 +33,16 @@ cornu, cornus n.
 aureus, aurea, aureum
 
 carne humana
-caro, carnis f. 
-humanus, humana, humanum 
+caro, carnis f. ablative singular 
+humanus, humana, humanum f ablative singular 
 
 draconem immanem
-draco, draconis m. 3rd declension- means serpent 
+draco, draconis m. 3rd declension- means serpent m singular accusative 
 immanis, immane, immanior-- means huge-- accusative masculine singular 
 
-mala aurea
-mala, malorum, n. 2nd decelension-- menas troubles--👌 **Possible. (Although in Hyginus, we'll see this phrase with the noun *malum, mali* (n) meaning "apple"!** ) accusative-nominative plural 
-aureus, aurea, aureaum-- means beautiful, genitive singular feminine
+mala aurea- golden apples
+malum, mali (n.) 2nd declension accusative-nominative plural 
+aureus, aurea, aureaum-- genitive singular feminine
 
 Dictionary skills, 2: verb forms
 For the following verbs in various forms, list the four principal parts you would find in a dictionary entry for this verb. If a part is missing (e.g., for a deponent verb, there will be no perfect active form for a third prinicipal part), list a dash - for the missing part.
@@ -50,33 +50,35 @@ For the following verbs in various forms, list the four principal parts you woul
 transierat: transeo, transire, transivi, transitus
 afflabat: afflo, afflare, afflavi, afflatus
 moriebatur: Morior, Mori, - , Mortuus
-exinteravit
+exinteravit: exintero, exinterare, exinteravi, exinteratus
 effugiebat: Effugio, Effugere, Effugi, Effugitus
 adduxit: adduco, adducere, adduxi, adductus
-iaculabantur
-vescebantur: vescor, vesceris❌, vesci, - 
+iaculabantur: iaculor, iaculari, - , iaculatus
+vescebantur: vescor, vesci ❌,  - (NO THIRD) ?? (CHANGED??) 
 detraxit: detraho, detrahere, detraxi, detractus
 solitus erat: Soleo, Solere, -, Solitus
-attulit: attulo, attulis❌, attulere, -
+attulit: attulo, attulere, -, - (CHANGED??)
 
 Dictionary skills, 3: proper nouns and adjectives
 Dictionaries do not include large numbers of proper names and adjectives. Compose a dictionary for the proper nouns in the following phrases:
 
 Luna (nominative): lūna, ae (gen. lunai)
 Minerva (nominative): Minerva, Minerva, f. 
-in Phrygia: Phryges, um, m.,❌
-ex Creta: Crēta, ae
+in Phrygia: Phrygia, Phrygiae (f) --ablative 
+ex Creta: Crēta, Cretae --ablative
 Thraciae rex: Thrācĭa and Thrēcĭa, ae, f.
-cum Abdero: Abdēra, ōrum, n., and ae, f.❌
-Eurystheo regi: Eurysthĕnes, is, m.,❌s
+cum Abdero: Abderus, Abderi (m)
+Eurystheo regi: Eurysthĕnus, Eurystheni (m) (SAME ENDING AS ABOVE)
 
 Compose a dictionary form for the proper adjectives in the following phrases:
 
-Leonem Nemeum
-Hydram Lernaeam
+Leonem Nemeum: (m) accusative singular-- Nemeus, Nemea, Nemeum (Nemea) 
+Hydram Lernaeam: 
 aprum Erymanthium
-aves Stymphalides
-Hippolyten Amazonam (NB: Hippolyten is a Greek name in a feminine accusative singular form, like Iolen in our earlier assignment.)
+aves Stymphalides: Stymphalis, Stymphalidis 
+Hippolyten Amazonam (NB: Hippolyten is a Greek name in a feminine accusative singular form, like Iolen in our earlier assignment.) Amazonus, Amazona, Amazonum
+
+
 Comparative and superlative forms
 Translate the highlighted phrases in the following English sentences into Latin. Use these vocabulary items:
 
@@ -89,12 +91,12 @@ a third-declension noun:
 pars, partis (f.) “part”
 and the adjective magnus/a/um, “great, large,” with irregular comparative maior, and superlative maximus.
 
-The Hydra killed passers by with a great blowing of his poisonous breath.
-The Hydra killed passers by with a greater blowing of his poisonous breath.
-The Hydra killed passers by with the greatest blowing of his poisonous breath.
-The victims died in great torment.
-The victims died in greater torment.
-The victims died in the greatest torment.
-Hercules cleaned a great part of the stables.
-Hercules cleaned a greater part of the stables.
-Hercules cleaned the greatest part of the stables.
+The Hydra killed passers by with a great blowing of his poisonous breath. (masc singular ablative) magno afflatu
+The Hydra killed passers by with a greater blowing of his poisonous breath. maiore afflatu
+The Hydra killed passers by with the greatest blowing of his poisonous breath. maximo afflatu
+The victims died in great torment.(masc, ablative, sing) : magno cruciatu
+The victims died in greater torment. maiore cruciatu
+The victims died in the greatest torment. maximo cruciatu
+Hercules cleaned a great part of the stables. (fem acc sing) magnam partem 
+Hercules cleaned a greater part of the stables. (acc sing) maiorem partem 
+Hercules cleaned the greatest part of the stables. maximam partem 
