@@ -54,27 +54,27 @@ exinteravit: exintero, exinterare, exinteravi, exinteratus
 effugiebat: Effugio, Effugere, Effugi, Effugitus
 adduxit: adduco, adducere, adduxi, adductus
 iaculabantur: iaculor, iaculari, - , iaculatus
-vescebantur: vescor, vesci ❌,  - (NO THIRD) ?? (CHANGED??) 
+vescebantur: vescor, vesci, - , -
 detraxit: detraho, detrahere, detraxi, detractus
 solitus erat: Soleo, Solere, -, Solitus
-attulit: attulo, attulere, -, - (CHANGED??)
+attulit: affero, affere, attuli, allatus
 
 Dictionary skills, 3: proper nouns and adjectives
 Dictionaries do not include large numbers of proper names and adjectives. Compose a dictionary for the proper nouns in the following phrases:
 
-Luna (nominative): lūna, ae (gen. lunai)
+Luna (nominative): lūna, ae (gen. lunai) f.
 Minerva (nominative): Minerva, Minerva, f. 
 in Phrygia: Phrygia, Phrygiae (f) --ablative 
-ex Creta: Crēta, Cretae --ablative
+ex Creta: Crēta, Cretae --ablative f.
 Thraciae rex: Thrācĭa and Thrēcĭa, ae, f.
 cum Abdero: Abderus, Abderi (m)
-Eurystheo regi: Eurysthĕnus, Eurystheni (m) (SAME ENDING AS ABOVE)
+Eurystheo regi: Eurystheus, Eurysthei(m) 
 
 Compose a dictionary form for the proper adjectives in the following phrases:
 
 Leonem Nemeum: (m) accusative singular-- Nemeus, Nemea, Nemeum (Nemea) 
-Hydram Lernaeam: 
-aprum Erymanthium
+Hydram Lernaeam: Lernaeus, Lernaea, Lernaeum
+aprum Erymanthium: Erymanthius, Erymanthia, Erymanthium
 aves Stymphalides: Stymphalis, Stymphalidis 
 Hippolyten Amazonam (NB: Hippolyten is a Greek name in a feminine accusative singular form, like Iolen in our earlier assignment.) Amazonus, Amazona, Amazonum
 
