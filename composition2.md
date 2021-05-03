@@ -24,13 +24,13 @@ temporal clause (cum- indicative for time? subjunct circumstance?)--
       Iolen adductam esse (indirect statement = infinitive + subject accusative)
 Coepiebat/coepit machinari
 
-    negative purpose (ne + subjunctive; tense following sequence for secondary (past time) sequence)
+    negative purpose (ne + IMPERFECT subjunctive; tense following sequence for secondary (past time) sequence)
     
     
     pluperfect subjunctive if would/had
     
     
-1) Cum Deianira vedit❌ (CHANGED)Iolen adductam esse coepit machinari ne privaret mariti❌ eius❌. 
+1) Cum Deianira vedit Iolen adductam esse coepit machinari ne se coniugio privaretur. (CHANGED)
 
 Your second sentence should express that she sent her servant to bring to Hercules a garment dipped in the blood of the centaur Nessus, which she thought was a love potion.
 
@@ -39,7 +39,7 @@ qui with relative clause, or gerunduve with "a" = in order to (purpose)
 she thought that = thinking introduces an indirect statement-- need accusative subject and infinitive "to be" ESSE
 QUI FERRIT= in order to bring it 
 
-Famulum misit ad vestem ferendam
+Famulum misit ad vestem ferendam Hercules summersit 
 
 
 Your third sentence should say that Hercules put the garment on and it immediately burst into flames.
