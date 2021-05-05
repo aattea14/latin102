@@ -19,16 +19,29 @@ maiorem partem
 > Iove adiutore; 
 > flumine admisso 
 totum stercus *abluit*.
+ 
+In one day, Hercules cleaned up the manure 
+flumine admisso= 
+because the river had been let in, he cleaned away all of the dung. 
 
-8 taurum cum quo Pasiphae concubuit ex Creta insula Mycenis vivum adduxit.
+8 taurum 
+> cum quo Pasiphae *concubuit* 
+ex Creta insula Mycenis vivum *adduxit*.
 
-9 Diomedem Thraciae regem et equos quattuor eius, qui carne humana vescebantur, cum Abdero famulo interfecit; equorum autem nomina Podargus Lampon Xanthus Dinus.
+Hercules led the bull with whom Pasiphae laid with alive from the island of Crete to Mycenae.
+
+9 Diomedem Thraciae regem et equos quattuor eius, 
+> qui carne humana *vescebantur*, 
+cum Abdero famulo *interfecit*; 
+equorum autem nomina Podargus Lampon Xanthus Dinus.
+
+He killed Diomedes, king of Thracia, and his four horses who used to eat human flesh along with Aderos his slave. The names of the horses were Podargus, Lampon, Xanthus, and Dinus.  
 
 A. Grammatical analysis
 Place each verbal idea (clause, indirect statement, participial expression) on a separate line, indented to show its level of subordination. Italicize the verb of each unit by surrounding it with asterisks.
 
 B. Grammatical questions
-In the phrase, Iove adiutore, what case is Iove? What kind of construction is this phrase? This is in the ablative case
+In the phrase, Iove adiutore, what case is Iove? What kind of construction is this phrase? This is in the ablative case because the noun Jupiter doesnt appear anywhere else in this sentence.
 
 What case is stercus, and why is it in that case? accusative- bobile is also accusative. It is in this case because it is the direct object in the statement.
 
@@ -36,12 +49,11 @@ Identify the form of the adjective maiorem (gender, case, number, degree). accus
 
 Explain the construction of the verbal unit flumine admisso. Admisso is the fourth principle part. This is in the ablative case 
 
-What are the gender, number, case, and antecedent of qui?
-What Latin verb form has to be understood in the clause that runs from equorum to Dinus?
+What are the gender, number, case, and antecedent of qui? nominative masculine singular 
+
+What Latin verb form has to be understood in the clause that runs from equorum to Dinus? 
+
 C. Literary commentary
 Choose two choices of syntax, word order, or diction that Hyginus makes in this passage that complement or enhance the meaning of the passage’s content. Discuss briefly s in 3-4 sentences. Italicize Latin words when citing them.
 
-Submitting your work
-In your github repository, create a file named translation3.md.
 
-You can copy and paste this page in to set up a template for your submission. Enter your answer next to each question.
