@@ -20,9 +20,8 @@ maiorem partem
 > flumine admisso 
 totum stercus *abluit*.
  
-In one day, Hercules cleaned up the manure 
-flumine admisso= 
-because the river had been let in, he cleaned away all of the dung. 
+In one day, Hercules cleaned up the manure and stable of King Augeas, Jupitor helping him for the most part;
+Because the river had been let in, he cleaned away all of the dung. 
 
 8 taurum 
 > cum quo Pasiphae *concubuit* 
@@ -35,7 +34,7 @@ Hercules led the bull with whom Pasiphae laid with alive from the island of Cret
 cum Abdero famulo *interfecit*; 
 equorum autem nomina Podargus Lampon Xanthus Dinus.
 
-He killed Diomedes, king of Thrace, and his four horses who used to eat human flesh, along with Aderos his slave. The names of the horses were Podargus, Lampon, Xanthus, and Dinus.  
+He killed Diomedes, king of Thrace, and his four horses who used to eat human flesh, along with Abderus his slave. The names of the horses were Podargus, Lampon, Xanthus, and Dinus.  
 
 A. Grammatical analysis
 Place each verbal idea (clause, indirect statement, participial expression) on a separate line, indented to show its level of subordination. Italicize the verb of each unit by surrounding it with asterisks.
@@ -51,11 +50,12 @@ Explain the construction of the verbal unit flumine admisso. Admisso is the four
 
 What are the gender, number, case, and antecedent of qui? nominative masculine singular 
 
-What Latin verb form has to be understood in the clause that runs from equorum to Dinus? 
+What Latin verb form has to be understood in the clause that runs from equorum to Dinus? nomina, which is imperative
 
 C. Literary commentary
 Choose two choices of syntax, word order, or diction that Hyginus makes in this passage that complement or enhance the meaning of the passage’s content. Discuss briefly s in 3-4 sentences. Italicize Latin words when citing them.
 
 1) *Iove adiutore* enhances the meaning of the passage because it is written in the ablative case. This sticks out in the sentence and gives it a different meaning.
+2) *qui carne humana vescebantur* is a clause in this passage that also stuck out to me because it enhances the meaning of this part of the story by adding more specific details.
 
 
