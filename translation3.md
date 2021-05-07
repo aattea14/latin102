@@ -56,4 +56,6 @@ What Latin verb form has to be understood in the clause that runs from equorum t
 C. Literary commentary
 Choose two choices of syntax, word order, or diction that Hyginus makes in this passage that complement or enhance the meaning of the passage’s content. Discuss briefly s in 3-4 sentences. Italicize Latin words when citing them.
 
+1) *Iove adiutore* enhances the meaning of the passage because it is written in the ablative case. This sticks out in the sentence and gives it a different meaning.
+
 
