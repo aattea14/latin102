@@ -44,11 +44,11 @@ Famulum misit ad vestem ferendam Hercules summersit
 
 Your third sentence should say that Hercules put the garment on and it immediately burst into flames.
 
-3) Hercules induit vestimentum et vestimentum statim displosit❌ **See gloss for better vocabulary option.** in flammato.
+3) Hercules induit vestimentum et vestimentum statim flammavit. (CHANGED?) 
 
 Your fourth sentence should express that Hercules threw the slave, whom Deianira had sent to bring the garment back, into the sea.
 
-4) Hercules iecit famulum, quid❌ Deianira miserat ❌ **Need purpose here, too** ferre vestimentum, in mare. 
+4) Hercules iecit famulum, quem❌ Deianira miserat ❌ **Need purpose here, too** ferre vestimentum, in mare. 
 
 
 Your last sentence should express that it is reported (or said) that Hercules rose to immortality, but Deianira killed herself on account of this deed.
