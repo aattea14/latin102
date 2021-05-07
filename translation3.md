@@ -35,7 +35,7 @@ Hercules led the bull with whom Pasiphae laid with alive from the island of Cret
 cum Abdero famulo *interfecit*; 
 equorum autem nomina Podargus Lampon Xanthus Dinus.
 
-He killed Diomedes, king of Thracia, and his four horses who used to eat human flesh along with Aderos his slave. The names of the horses were Podargus, Lampon, Xanthus, and Dinus.  
+He killed Diomedes, king of Thrace, and his four horses who used to eat human flesh, along with Aderos his slave. The names of the horses were Podargus, Lampon, Xanthus, and Dinus.  
 
 A. Grammatical analysis
 Place each verbal idea (clause, indirect statement, participial expression) on a separate line, indented to show its level of subordination. Italicize the verb of each unit by surrounding it with asterisks.
