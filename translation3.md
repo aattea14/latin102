@@ -1,3 +1,5 @@
+**Needs revisions**
+
 Glossary and notes
 Note: the verb sum, esse, fui, futurus has no present participle! If you want to construct the equivalent of a normal verbal unit using a participle with a noun, you can simply omit the verb “to be” and include the predicate (just as you can with finite forms of sum: Herculis fortis could be a complete sentence). This is most easily recognizable when the noun is an ablative in ablative absolute construction.
 
@@ -48,9 +50,9 @@ Identify the form of the adjective maiorem (gender, case, number, degree). accus
 
 Explain the construction of the verbal unit flumine admisso. Admisso is the fourth principle part. This is in the ablative case 
 
-What are the gender, number, case, and antecedent of qui? nominative masculine singular 
+What are the gender, number, case, and antecedent of qui? nominative masculine singular ❌ **Look at the form of the verb. It's not singular! But you're right that *qui* is nominative ,so... ?**
 
-What Latin verb form has to be understood in the clause that runs from equorum to Dinus? nomina, which is imperative
+What Latin verb form has to be understood in the clause that runs from equorum to Dinus? nomina, which is imperative ❌ **Here, *nomina* is neut.nom.pl., from *nomen, nominis*.**
 
 C. Literary commentary
 Choose two choices of syntax, word order, or diction that Hyginus makes in this passage that complement or enhance the meaning of the passage’s content. Discuss briefly s in 3-4 sentences. Italicize Latin words when citing them.
