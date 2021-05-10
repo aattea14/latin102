@@ -39,7 +39,7 @@ qui with relative clause, or gerunduve with "a" = in order to (purpose)
 she thought that = thinking introduces an indirect statement-- need accusative subject and infinitive "to be" ESSE
 QUI FERRIT= in order to bring it 
 
-Famulum misit ad vestem ferendam Hercules summersit in centaurum Nessum sanguinem, quid cogitavit potioni amori.
+Deianira famulum misit ad vestem ferendam Hercules summersit in centaurum Nessum sanguinem, quid cogitavit potioni amori.
 
 
 Your third sentence should say that Hercules put the garment on and it immediately burst into flames.
@@ -48,7 +48,7 @@ Your third sentence should say that Hercules put the garment on and it immediate
 
 Your fourth sentence should express that Hercules threw the slave, whom Deianira had sent to bring the garment back, into the sea.
 
-4) Hercules iecit famulum, quam❌ Deianira misit ❌ **Need purpose here, too** ferre vestimentum, in mare. 
+4) Hercules iecit famulum, quem❌ Deianira misit ❌ **Need purpose here, too** ferre vestimentum, in mare. 
 (changed endings) 
 
 Your last sentence should express that it is reported (or said) that Hercules rose to immortality, but Deianira killed herself on account of this deed.
