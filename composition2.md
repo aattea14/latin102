@@ -30,35 +30,26 @@ Coepiebat/coepit machinari
     pluperfect subjunctive if would/had
     
     
-1) Cum Deianira vedit Iolen adductam esse coepit machinari ne se coniugio privaretur. (CHANGED)
+1) Cum Deianira vidit Iolen adductam esse coepit machinari ne se coniugio privaretur. (CHANGED)
 
 Your second sentence should express that she sent her servant to bring to Hercules a garment dipped in the blood of the centaur Nessus, which she thought was a love potion.
 
-2) Deianiram❌ famulum misit ❌ferre Hercules vestimentum summersit in centaurum Nessum sanguinem, quid cogitavit potioni amori. **We need a *purpose* construction here:  unlike English, Latin can't express that with an infinitive "to do something".**
-qui with relative clause, or gerunduve with "a" = in order to (purpose)
-she thought that = thinking introduces an indirect statement-- need accusative subject and infinitive "to be" ESSE
-QUI FERRIT= in order to bring it 
-
-Deianira famulum misit ad vestem ferendam Hercules summersit in centaurum Nessum sanguinem, quid cogitavit potioni amori.
+2) Deianira famulum misit ad vestem ferendam tinctam sanguine Nessi quem putavit philtrum esse.
 
 
 Your third sentence should say that Hercules put the garment on and it immediately burst into flames.
 
-3) Hercules induit vestem et vestem statim flammavit. (CHANGED?) 
+3) Hercules induit vestem et vestem statim flammavit.  
+
 
 Your fourth sentence should express that Hercules threw the slave, whom Deianira had sent to bring the garment back, into the sea.
 
-4) Hercules iecit famulum, quem❌ Deianira misit ❌ **Need purpose here, too** ferre vestimentum, in mare. 
-(changed endings) 
+4) Hercules iecit famulum, quem Deianira misit ad vestem ferendam revocandam in mare. 
+ 
 
 Your last sentence should express that it is reported (or said) that Hercules rose to immortality, but Deianira killed herself on account of this deed.
 
-5) Dicitur❌ (CHANGED) Hercules ortus est ad immortalem ❌**Need indirect statement**, sed Deianira se occidit❌ **What mood is this?** (CHANGED) ob haec. 
-dicitur= it is said 
+5) Dicitur Herculem ortum esse ad immortalitatem, sed Deianira se occidit ob haec. 
 
 
-gerundive: ad and noun it agrees with is a passive verbal idea 
 
-ad vestem ferendam= garment should be brought back 
-
-Famulum misit ad vestem ferendam= she sent her slave in order to bring back garment 
