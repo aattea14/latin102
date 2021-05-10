@@ -1,11 +1,10 @@
 Compare a passage of Hyginus with an illustration of the same subject in art. Identify the work of art, and cite at least two specific points in Hyginus’ Latin that are similar to or different from the visual illustration.
+
+
 9 Diomedem Thraciae regem et equos quattuor eius, qui carne humana uescebantur, cum Abdero famulo interfecit; equorum autem nomina Podargus Lampon Xanthus Dinus.
 
-
-
  
- 
- 
+ https://artsandculture.google.com/asset/hercules-feeding-diomedes-to-his-horses-luca-giordano/5gHgUzKNlDFS8A
  
  
  
