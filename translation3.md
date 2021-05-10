@@ -50,9 +50,9 @@ Identify the form of the adjective maiorem (gender, case, number, degree). accus
 
 Explain the construction of the verbal unit flumine admisso. Admisso is the fourth principle part. This is in the ablative case 
 
-What are the gender, number, case, and antecedent of qui? nominative masculine singular ❌ **Look at the form of the verb. It's not singular! But you're right that *qui* is nominative ,so... ?**
+What are the gender, number, case, and antecedent of qui? nominative masculine plural. Antecedent is the horses. 
 
-What Latin verb form has to be understood in the clause that runs from equorum to Dinus? nomina, which is imperative ❌ **Here, *nomina* is neut.nom.pl., from *nomen, nominis*.**
+What Latin verb form has to be understood in the clause that runs from equorum to Dinus? esse- to be
 
 C. Literary commentary
 Choose two choices of syntax, word order, or diction that Hyginus makes in this passage that complement or enhance the meaning of the passage’s content. Discuss briefly s in 3-4 sentences. Italicize Latin words when citing them.
